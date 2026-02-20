@@ -41,7 +41,7 @@ Build Tools
 
 📁 Project Structure
 --
-
+```
 WEBCLOCK/
 
 ├── dist/   
@@ -73,7 +73,7 @@ WEBCLOCK/
 ├── webpack.dev.js          # Development configuration
 
 └── webpack.prod.js         # Production configuration
-
+```
 🚀 Getting Started
 Prerequisites
 
